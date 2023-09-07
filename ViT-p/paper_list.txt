@@ -1,0 +1,10 @@
+image captioning
++
+image retrieval
++
+image segmentation
+
+auto search + data making
++segmentation + captioning => image representation.
+
+image representation => math representation, physics.
