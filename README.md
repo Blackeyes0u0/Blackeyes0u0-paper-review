@@ -1,45 +1,50 @@
 # Paper-Review
+## Areas : Vision , Language, Graph 
 ### by SHIN Joong Hyun 
->## Areas : Vision , Language, Graph 
-
 
 # 1. Vision Model
 
 Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[html]](https://www.deeplearningbook.org/) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
-## 1.1 Survey
+## Survey
 
 **[1-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
+## papers
 
->**[1-1]**  **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
+**[1-1]**  **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 **[github](https://github.com/google-research/vision_transformer)**  
 
 
 **[1-2]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 **[github](site)**  
 
 
 **[1-3]**  **"title"**:star::star::star:
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 **[github](site)**  
 
 ---
 
 # 2. Language Model
 
-## 2.1 Survey
+## Survey
 
 **[2-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
+## papers
 
->**[2-1]**  **"title"**:star::star::star::star::star:
+**[2-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 **[github](site)**  
 
 
@@ -51,9 +56,12 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[3-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
->**[1-1]**  **"title"**:star::star::star::star::star:
+## papers
+
+**[1-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 **[github](site)**  
 
 
