@@ -12,24 +12,28 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## papers
 
-**[1-1]**  **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
+**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
 **[paper](https://arxiv.org/abs/2010.11929)**
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
-
 **[github](https://github.com/google-research/vision_transformer)**  
 
-
-**[1-2]**  **"title"**:star::star::star::star::star:
-**[paper](site)**
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
 
-**[github](site)**  
+
+
+**[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**:star::star::star::star::star:
+**[paper](https://arxiv.org/abs/2103.00020)**
+**[github](https://github.com/openai/CLIP)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
 
 
 **[1-3]**  **"title"**:star::star::star:
+**[paper](site)**
+**[github](site)**  
+
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
 
-**[github](site)**  
 
 ---
 
@@ -43,9 +47,10 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[2-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
+**[github](site)**  
+
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
 
-**[github](site)**  
 
 
 ---
@@ -58,11 +63,12 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## papers
 
-**[1-1]**  **"title"**:star::star::star::star::star:
+**[3-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
+**[github](site)** 
+
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
 
-**[github](site)**  
 
 
 ---
