@@ -42,7 +42,6 @@ images : $x \in R^{H \times W \times C}$ in here , 224x224x3[ ImageNet Datasets 
 
 
 ### Transformer vs ViT
-<img src="image-7.png" width="220" height="300">
 
 
 ![Alt text](image-1.png)
