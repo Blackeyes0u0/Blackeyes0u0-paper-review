@@ -22,7 +22,8 @@ Thanks to Transformers’ computational efficiency and scalability, it has becom
 
 - Transformer 구조의 NLP task에서의 성공
 - computational efficiency & scalability
-- datasets, model size $\propto$
+- datasets, model size $\propto$ performance
+- 
 >Q : why transformer has computational efficiency and scalability?
 
 ![Alt text](image-12.png)

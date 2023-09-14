@@ -16,15 +16,14 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[github](https://github.com/google-research/vision_transformer)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
-
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT_pre/00vit.md)**
 
 
 **[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**:star::star::star::star::star:
 **[paper](https://arxiv.org/abs/2103.00020)**
 **[github](https://github.com/openai/CLIP)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision)**
 
 
 <!-- 
@@ -32,10 +31,10 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](site)**
 **[github](site)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)** -->
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision)** -->
 
 
----
+------------------------------------------------
 
 # 2. Language Model
 
@@ -50,7 +49,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[github](https://github.com/lucidrains/performer-pytorch)**  
 
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)**
 
 
 <!-- 
@@ -58,17 +57,21 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](site)**
 **[github](site)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)** -->
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
 
 
 
----
+
+------------------------------------------------
+
+
+
 # 3. Graph Model
 
-
+<!-- 
 ## 3.1 Survey
 
-**[3-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
+**[3-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star: -->
 
 ## papers
 
@@ -76,7 +79,15 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](site)**
 **[github](site)** 
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Graph/)**
+
+
+<!-- **[3-1]**  **"title"**:star::star::star::star::star:
+**[paper](site)**
+**[github](site)** 
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Graph/)**
+ -->
 
 
 
@@ -186,10 +197,10 @@ git reset --hard ORIG_HEAD
 -->
 
 
-![footprint](./image/footprint.jpg)
-
 >##### "One small step for a man, one giant leap for mankind" 
 >  -Neil Armstrong- 
+![footprint](./image/footprint.jpg)
+
 
 <!--
 
