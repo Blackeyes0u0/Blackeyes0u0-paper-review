@@ -27,12 +27,12 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
 
 
-
+<!-- 
 **[1-3]**  **"title"**:star::star::star:
 **[paper](site)**
 **[github](site)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)** -->
 
 
 ---
@@ -41,15 +41,24 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## Survey
 
-**[2-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
+**[2-0]**  "**A Survey of Large Language Models**."(2023). [[LLM survey paper]](https://arxiv.org/abs/2303.18223) :star::star::star::star:
 
 ## papers
 
+**[2-1]**  **"RoFormer: Enhanced Transformer with Rotary Position Embedding"**:star::star::star:
+**[paper](https://arxiv.org/abs/2104.09864)**
+**[github](https://github.com/lucidrains/performer-pytorch)**  
+
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+
+
+<!-- 
 **[2-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[github](site)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/)** -->
 
 
 
