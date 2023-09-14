@@ -16,7 +16,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[github](https://github.com/google-research/vision_transformer)**  
 
-**[review](/Users/juniverse/Desktop/pointcloud/Blackeyes0u0-paper-review/papers/Vision/ViT/vit.md)**
+**[review](./papers/Vision/ViT/vit.md)**
 
 
 **[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**:star::star::star::star::star:
