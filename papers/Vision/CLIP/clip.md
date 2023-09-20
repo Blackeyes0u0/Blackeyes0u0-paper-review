@@ -78,7 +78,7 @@ loss_t = cross_entropy_loss(logits, labels, axis=1)
 loss   = (loss_i + loss_t)/2
 ```
 
-$i$ 번째 텍스트의 loss
+<!-- $i$ 번째 텍스트의 loss
 $$
 \begin{gathered}
 =\sum_{k=1}^C T(k=i) \cdot\left(-\log \frac{\exp \left(T_i \cdot I_K\right)}{\sum_{p=1}^N \exp \left(T_i \cdot I_p\right)}\right)=-\log \frac{\exp \left(T_i \cdot I_K\right)}{\sum_{p=1}^N \exp \left(T_i \cdot I_p\right)} \\
@@ -87,7 +87,8 @@ $$
 0 & \text { otherwise }
 \end{array}, k=1, \ldots, N, i=1, \ldots, N\right.
 \end{gathered}
-$$
+$$ -->
+![Alt text](image.png)
 
 <!-- $i$ 번째 이미지의 loss
 $$
@@ -100,6 +101,8 @@ $$
 최종 loss = ( $N$개의 이미지의 loss + $N$개의 텍스트 loss) /2 -->
 
 ![Alt text](image-3.png)
+
+최종 loss = ( $N$개의 이미지의 loss + $N$개의 텍스트 loss) /2 
 ## Experiment results
 
 1. Zero Shot CLIP vs Visual N-Grams
