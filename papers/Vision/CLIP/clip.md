@@ -47,7 +47,6 @@ image : only data augmentation which implement random square crop from resized i
 1. Image Encoding : Batch Image → Image Encoder (Modified Resnet / ViT) → Image Vector 
 2. Text Encoding : Batch Text → Text Encoder (Transformer) → Text Vector
 
-![Alt text](image.png)
 
 
 ### Contrastive Learning
@@ -90,7 +89,7 @@ $$
 \end{gathered}
 $$
 
-$i$ 번째 이미지의 loss
+<!-- $i$ 번째 이미지의 loss
 $$
 =\sum_{k=1}^C I(k=i) \cdot\left(-\log \frac{\exp \left(I_i \cdot T_K\right)}{\sum_{p=1}^N \exp \left(I_i \cdot T_p\right)}\right)=-\log \frac{\exp \left(I_i \cdot T_K\right)}{\sum_{p=1}^N \exp \left(I_i \cdot T_p\right)}
 $$
@@ -98,8 +97,9 @@ $i$ 번째 텍스트의 loss
 $$
 =\sum_{k=1}^C T(k=i) \cdot\left(-\log \frac{\exp \left(T_i \cdot I_K\right)}{\sum_{p=1}^N \exp \left(T_i \cdot I_p\right)}\right)=-\log \frac{\exp \left(T_i \cdot I_K\right)}{\sum_{p=1}^N \exp \left(T_i \cdot I_p\right)}
 $$
-최종 loss = ( $N$개의 이미지의 loss + $N$개의 텍스트 loss) /2
+최종 loss = ( $N$개의 이미지의 loss + $N$개의 텍스트 loss) /2 -->
 
+![Alt text](image-3.png)
 ## Experiment results
 
 1. Zero Shot CLIP vs Visual N-Grams
