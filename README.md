@@ -23,7 +23,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](https://arxiv.org/abs/2103.00020)**
 **[github](https://github.com/openai/CLIP)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/CLIP/clip.md)**
 
 
 <!-- 
