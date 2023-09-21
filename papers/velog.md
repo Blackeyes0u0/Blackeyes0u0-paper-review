@@ -1,6 +1,6 @@
 # Vision Transformer 
 
-![Alt text](image-6.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-6.png?raw=true)
 
 
 ## Abstract
@@ -44,7 +44,7 @@ images : $x \in R^{H \times W \times C}$ in here , 224x224x3[ ImageNet Datasets 
 ### Transformer vs ViT
 
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-1.png?raw=true)
 >#### Class token
 >
 >similar with **BERT**'s cls token
@@ -54,29 +54,26 @@ images : $x \in R^{H \times W \times C}$ in here , 224x224x3[ ImageNet Datasets 
 >전체 이미지에 대한 임베딩 $y$를 MLP에 통과시켜 이미지를 분류한다.
 
 
-##### tranformer에서 PE
-![Alt text](image.png)
-
 >#### Position Embedding
 >
 >>Q : PE initial weights에 대한 제약조건이 있는지 아니면 random하게 만들었는지.
 
 
-![Alt text](image-2.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-2.png?raw=true)
 
-![Alt text](image-5.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-5.png?raw=true)
 
 ## Experiments 
 
-![Alt text](image-3.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-3.png?raw=true)
 
 
 
-![Alt text](image-4.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-4.png?raw=true)
 
-![Alt text](image-15.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-15.png?raw=true)
 
-![Alt text](image-16.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-16.png?raw=true)
 
 ## Conclusion
 
@@ -102,7 +99,7 @@ Contribution
 
 2. 어떻게 그걸로 퉁칠 수 있는가? -> 일단, 각 Token에 대한 Embedding vector가 추출되는 과정은 아래 그림과 같은데, Transformer를 썼으니까 사실 당연하게도 모든 Embedding token들은 다른 Token들에 영향을 받고 받고 받아 구성된다. 다만 Which는 Which를 보존하게, Sesame은 Sesame을 보존하게 살아나는 것 뿐인데, <CLS>는 첫째로, 모든 Input에서, 항상 0-Position에 위치한 Token이다. 이것의 의미는 BERT의 Embedding vector는 단순한 Token embd로 구성되는게 아니라, Token embd + Segment embd + Position embd로 구성되는데, 다른 의미를 가진 단어들은 3개가 모두 다른 반면, <CLS>는 다른 Token의 정보를 주고받으면서 구성되면서도, Segment embd, Position embd가 항상 동일하다. 둘째로, <CLS>는 Word로써의 의미가 없다. 즉, 기존 공간에서 CLS의 권위는 사실 Blank에 가깝다. 이런 놈한테 거듭된 Transformer로 다른 Tokens에 대한 정보가 인코딩한다는 것은, 전체 Sentence에 대한 정보를 넘긴다는 의미가 되며, 따라서 CLS repr는 Sentence repr로써 활용할 수 있게 된다.
 
-![Alt text](image-8.png)
+![Alt text](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/image-8.png?raw=true)
 
 # reference 
 
