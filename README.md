@@ -102,7 +102,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.08821)**
-**[github](https://gith ub.com/princeton-nlp/SimCSE)**  
+**[github](https://github.com/princeton-nlp/SimCSE)**  
 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
 
