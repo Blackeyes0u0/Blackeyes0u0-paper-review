@@ -47,5 +47,13 @@ $$
  uniformity of sentence embeddings를 향상 시킬수 있다고 하는데, $h_i, h_j$를 각 $x_k
 \in R^d$에 평균을 빼야 covariance matrix를 의미하고, 각 분산을 의미하지 않나해서 궁금증이생겼다. 왜냐하면, $h$를 만드는 $f()$는 모르지만, 전체적으로 평균이 커지는것을 줄이는것만해도 이걸 컨트롤 할 수 있고, 분산과의 의미는 멀어지기 때문.
 
-위 내용을 수식으로 표현하는것은 조만간 올리겠습니다.
+위 내용을 수식으로 표현하는것은 관련 내용들을 학습해서 알게되면 올리겠습니다.
+
+---
+### Reference
+
+- https://builtin.com/data-science/symmetric-matrix
+- https://en.wikipedia.org/wiki/Jensen%27s_inequality
+- https://en.wikipedia.org/wiki/Covariance_matrix
+
 
