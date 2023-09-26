@@ -10,7 +10,7 @@
 
 **[Description]**
 
-이 저장소는 Vision, Language, Graph 분야의 논문 리뷰를 제공합니다. Shin Joong Hyun이 작성하였으며, 논문의 개요, 주요 내용, 문제점, 해결방법, 그리고 여러 의견 정리하여 제공합니다.
+이 저장소는 Vision, Language, Graph 분야의 논문 리뷰를 제공합니다. 여러 레퍼런스를 정리하여 작성하였으며, 논문의 개요, 주요 내용, 문제점, 해결방법을 제공합니다.
 
 * [GitHub repository](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review)
 * [blog](https://velog.io/@blackeyes0u0)
@@ -102,7 +102,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.08821)**
-**[github](https://github.com/princeton-nlp/SimCSE)**  
+**[github](https://gith ub.com/princeton-nlp/SimCSE)**  
 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
 
@@ -131,18 +131,12 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 # 3. Graph Model
 
-<!-- 
-## 3.1 Survey
+## Survey
 
-**[3-0]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star: -->
+**[3-0]**  "**A Comprehensive Survey on Graph Neural
+Networks**."(2019). [[Graph survey paper]](https://arxiv.org/pdf/1901.00596.pdf) :star::star::star::star:
 
 ## papers
-
-**[3-1]**  **"title"**:star::star::star::star::star:
-**[paper](site)**
-**[github](site)** 
-
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Graph/)**
 
 
 <!-- **[3-1]**  **"title"**:star::star::star::star::star:
