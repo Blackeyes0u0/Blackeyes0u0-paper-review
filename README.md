@@ -12,7 +12,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## papers
 
-**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
+**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**:star::star::star::star::star:
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[github](https://github.com/google-research/vision_transformer)**  
 
@@ -26,8 +26,29 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/CLIP/clip.md)**
 
 
+
+**[1-3]**  **"Deep Residual Learning for Image Recognition"**:star::star::star::star::star:
+**[paper](https://arxiv.org/abs/1512.03385)**
+**[github](https://paperswithcode.com/)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/resnet/Resnet.pdf)**
+
+
+**[1-4]**  **"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"**:star::star::star::star:
+**[paper](https://arxiv.org/abs/1704.04861)**
+**[github](https://github.com/tensorflow/tensorflow/blob/v2.4.1/tensorflow/python/keras/applications/mobilenet.py)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/mobilenet/mobile.pdf)**
+
+
+**[1-5]**  **"GhostNet: More Features from Cheap Operations"**:star::star::star:
+**[paper](https://arxiv.org/abs/1911.11907)**
+**[github](https://github.com/huawei-noah/Efficient-AI-Backbones)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ghostnet/ghost.pdf)**
+
 <!-- 
-**[1-3]**  **"title"**:star::star::star:
+**[1-6]**  **"title"**:star::star::star:
 **[paper](site)**
 **[github](site)**  
 
@@ -50,6 +71,22 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)**
+
+
+
+**[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**:star::star::star::star::star:
+**[paper](https://arxiv.org/abs/2104.08821)**
+**[github](https://github.com/princeton-nlp/SimCSE)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
+
+
+<!-- 
+**[2-1]**  **"title"**:star::star::star::star::star:
+**[paper](site)**
+**[github](site)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
 
 
 <!-- 
