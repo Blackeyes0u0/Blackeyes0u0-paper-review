@@ -1,18 +1,12 @@
 # Paper-Review
 
-### Areas
+#### Areas : *Vision*, *Language*, *Graph*
 
-* Vision
-* Language
-* Graph
-
-### by SHIN Joong Hyun
 
 ![GitHub 로고](./image/0u0.png)
+### by SHIN Joong Hyun
 
-
-**[Vision, Language, Graph 분야의 논문 리뷰]**
-
+---
 
 **[Description]**
 
@@ -25,6 +19,7 @@
 
 이 저장소에 관심이 있으시다면, star를 눌러주시고, 논문 리뷰에 피드백을 남겨주시기 바랍니다.
 
+---
 
 # 1. Vision Model
 
