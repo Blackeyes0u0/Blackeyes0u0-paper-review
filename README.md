@@ -1,6 +1,30 @@
 # Paper-Review
-## Areas : Vision , Language, Graph 
-### by SHIN Joong Hyun 
+
+### Areas
+
+* Vision
+* Language
+* Graph
+
+### by SHIN Joong Hyun
+
+![GitHub 로고](./image/0u0.png)
+
+
+**[Vision, Language, Graph 분야의 논문 리뷰]**
+
+
+**[Description]**
+
+이 저장소는 Vision, Language, Graph 분야의 논문 리뷰를 제공합니다. Shin Joong Hyun이 작성하였으며, 논문의 개요, 주요 내용, 문제점, 해결방법, 그리고 제 의견 정리하여 제공합니다.
+
+* [GitHub repository](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review)
+* [blog](https://velog.io/@blackeyes0u0)
+
+**[Call to action]**
+
+이 저장소에 관심이 있으시다면, star를 눌러주시고, 논문 리뷰에 피드백을 남겨주시기 바랍니다.
+
 
 # 1. Vision Model
 
