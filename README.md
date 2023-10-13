@@ -31,7 +31,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## papers
 
-**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**(2020) -google research-
+**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**(2020) -google-
+
 :star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2010.11929)**
@@ -41,6 +42,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**(2021) -openai-
+
 :star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2103.00020)**
@@ -51,6 +53,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[1-3]**  **"Deep Residual Learning for Image Recognition"**(2015) -microsoft-
+
 :star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/1512.03385)**
@@ -60,6 +63,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[1-4]**  **"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"**
+
 :star::star::star::star:
 
 **[paper](https://arxiv.org/abs/1704.04861)**
@@ -69,6 +73,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[1-5]**  **"GhostNet: More Features from Cheap Operations"**
+
 :star::star::star:
 
 **[paper](https://arxiv.org/abs/1911.11907)**
@@ -96,6 +101,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 ## papers
 
 **[2-1]**  **"RoFormer: Enhanced Transformer with Rotary Position Embedding"**(2022)
+
 :star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.09864)**
@@ -107,6 +113,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**(2021) -princeton nlp-
+
 :star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.08821)**
@@ -117,7 +124,9 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 **[2-3]**  **"LoRA: Low-Rank Adaptation of Large Language Models"**(2021) -microsoft-
+
 :star::star::star::star::star:
+
 **[paper](https://arxiv.org/abs/2106.09685)**
 **[github](https://github.com/microsoft/LoRA)**  
 
