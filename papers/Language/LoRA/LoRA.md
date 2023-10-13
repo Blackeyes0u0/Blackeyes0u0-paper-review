@@ -14,6 +14,7 @@ marp: false
 # [LoRA](https://arxiv.org/abs/2106.09685)
 -Microsoft Corporation-
 
+2023.10.12
 ##### 발표자 신중현
 
 ---
@@ -61,7 +62,7 @@ Wt+1=Wt−η∇L(Wt)
  
 - η는 학습률(learning rate).
  
-- \∇L(Wt)는 비용 함수 L에 대한 그래디언트(gradient)입니다. 
+- ∇L(Wt)는 비용 함수 L에 대한 그래디언트(gradient)입니다. 
 
 ---
 ##### ADAM
@@ -115,12 +116,12 @@ e.g., use Adam optimizer
 
 ![Alt text](image-1.png)
 
+https://www.youtube.com/watch?v=KEv-F5UkhxU
 
 ---
 #### LoRA fintuning method
 ![Alt text](image.png?fit=contain)
 
-https://www.youtube.com/watch?v=KEv-F5UkhxU
 
 ---
 $$
@@ -227,11 +228,6 @@ https://www.youtube.com/watch?v=KEv-F5UkhxU
 
 ---
 # LoRA
-
-![Alt text](image-12.png)
-
----
-![Alt text](image-11.png)
 
 원래 weight에 $BA$를 통해서 weight_0에서 variants를 가하겠다.
 
@@ -351,3 +347,5 @@ Conclusion
 # END
 
 읽어주셔서 감사합니다.
+
+-Shin joong hyun-

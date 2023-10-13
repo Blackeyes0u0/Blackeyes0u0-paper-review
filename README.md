@@ -130,7 +130,7 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](https://arxiv.org/abs/2106.09685)**
 **[github](https://github.com/microsoft/LoRA)**  
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/LoRA/LoRA.md)**
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/LoRA/LoRA.pdf)**
 
 
 <!-- 
