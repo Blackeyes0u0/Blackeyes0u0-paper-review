@@ -31,7 +31,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## papers
 
-**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**:star::star::star::star::star:
+**[1-1]**  **"ViT : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**(2020) -google research-
+:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[github](https://github.com/google-research/vision_transformer)**  
@@ -39,7 +40,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/Vit.md)**
 
 
-**[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**:star::star::star::star::star:
+**[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**(2021) -openai-
+:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2103.00020)**
 **[github](https://github.com/openai/CLIP)**  
@@ -48,7 +50,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 
-**[1-3]**  **"Deep Residual Learning for Image Recognition"**:star::star::star::star::star:
+**[1-3]**  **"Deep Residual Learning for Image Recognition"**(2015) -microsoft-
+:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/1512.03385)**
 **[github](https://paperswithcode.com/)**  
@@ -56,7 +59,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/resnet/Resnet.pdf)**
 
 
-**[1-4]**  **"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"**:star::star::star::star:
+**[1-4]**  **"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"**
+:star::star::star::star:
 
 **[paper](https://arxiv.org/abs/1704.04861)**
 **[github](https://github.com/tensorflow/tensorflow/blob/v2.4.1/tensorflow/python/keras/applications/mobilenet.py)**  
@@ -64,7 +68,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/mobilenet/mobile.pdf)**
 
 
-**[1-5]**  **"GhostNet: More Features from Cheap Operations"**:star::star::star:
+**[1-5]**  **"GhostNet: More Features from Cheap Operations"**
+:star::star::star:
 
 **[paper](https://arxiv.org/abs/1911.11907)**
 **[github](https://github.com/huawei-noah/Efficient-AI-Backbones)**  
@@ -85,11 +90,13 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 ## Survey
 
-**[2-0]**  "**A Survey of Large Language Models**."(2023). [[LLM survey paper]](https://arxiv.org/abs/2303.18223) :star::star::star::star:
+**[2-0]**  "**A Survey of Large Language Models**."(2023). [[LLM survey paper]](https://arxiv.org/abs/2303.18223) 
+:star::star::star::star:
 
 ## papers
 
-**[2-1]**  **"RoFormer: Enhanced Transformer with Rotary Position Embedding"**:star::star::star:
+**[2-1]**  **"RoFormer: Enhanced Transformer with Rotary Position Embedding"**(2022)
+:star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.09864)**
 **[github](https://github.com/lucidrains/performer-pytorch)**  
@@ -99,12 +106,22 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 
 
-**[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**:star::star::star::star::star:
+**[2-2]**  **"SimCSE: Simple Contrastive Learning of Sentence Embeddings"**(2021) -princeton nlp-
+:star::star::star::star::star:
 
 **[paper](https://arxiv.org/abs/2104.08821)**
 **[github](https://github.com/princeton-nlp/SimCSE)**  
 
 **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
+
+
+
+**[2-3]**  **"LoRA: Low-Rank Adaptation of Large Language Models"**(2021) -microsoft-
+:star::star::star::star::star:
+**[paper](https://arxiv.org/abs/2106.09685)**
+**[github](https://github.com/microsoft/LoRA)**  
+
+**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/LoRA/LoRA.md)**
 
 
 <!-- 
