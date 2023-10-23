@@ -282,9 +282,9 @@ git reset --hard ORIG_HEAD
 
 >##### "One small step for a man, one giant leap for mankind" 
 >  -Neil Armstrong- 
-![footprint](./image/footprint.jpg)
+<!-- ![footprint](./image/footprint.jpg) -->
 
-
+![earth](./image/earth.jpg)
 <!--
 
 ![earth](./image/earth.jpg)
@@ -293,3 +293,5 @@ git reset --hard ORIG_HEAD
 ![subwayabovecity](./image/subwayabovecity.gif)
 
 -->
+
+please enjoy.
