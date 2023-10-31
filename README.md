@@ -1,23 +1,13 @@
 # Deep Learning Paper Review
 
-#### Areas : *Vision*, *Language*, *Graph*
+>#### Areas : *Vision*, *Language*, *Graph*
 
 
 ![GitHub 로고](./image/0u0.png)
-### by SHIN Joong Hyun
 
----
+이 저장소는 Vision, Language, Graph 분야의 논문 리뷰를 제공합니다. 읽은 내용은 Review로 정리해서 올려놓았습니다.
 
-**[Description]**
-
-이 저장소는 Vision, Language, Graph 분야의 논문 리뷰를 제공합니다. 여러 레퍼런스를 정리하여 작성하였으며, 논문의 개요, 주요 내용, 문제점, 해결방법을 제공합니다.
-
-* [GitHub repository](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review)
-* [blog](https://velog.io/@blackeyes0u0)
-
-**[Call to action]**
-
-이 저장소에 관심이 있으시다면, star를 눌러주시고, 논문 리뷰에 피드백을 남겨주시기 바랍니다.
+#### - JoongHyun Shin -
 
 ---
 
@@ -37,8 +27,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/2010.11929)**
 **[github](https://github.com/google-research/vision_transformer)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/Vit.md)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ViT/Vit.md)**
 
 
 **[1-2]**  **"CLIP : Learning Transferable Visual Models From Natural Language Supervision"**(2021) -openai-
@@ -47,8 +37,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/2103.00020)**
 **[github](https://github.com/openai/CLIP)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/CLIP/clip.md)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/CLIP/clip.md)**
 
 
 
@@ -58,8 +48,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/1512.03385)**
 **[github](https://paperswithcode.com/)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/resnet/Resnet.pdf)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/resnet/Resnet.pdf)**
 
 
 **[1-4]**  **"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"**
@@ -68,8 +58,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/1704.04861)**
 **[github](https://github.com/tensorflow/tensorflow/blob/v2.4.1/tensorflow/python/keras/applications/mobilenet.py)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/mobilenet/mobile.pdf)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/mobilenet/mobile.pdf)**
 
 
 **[1-5]**  **"GhostNet: More Features from Cheap Operations"**
@@ -78,15 +68,15 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/1911.11907)**
 **[github](https://github.com/huawei-noah/Efficient-AI-Backbones)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ghostnet/ghost.pdf)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision/ghostnet/ghost.pdf)**
 
 <!-- 
 **[1-6]**  **"title"**:star::star::star:
 **[paper](site)**
 **[github](site)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision)** -->
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Vision)** -->
 
 
 ------------------------------------------------
@@ -107,8 +97,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 **[paper](https://arxiv.org/abs/2104.09864)**
 **[github](https://github.com/lucidrains/performer-pytorch)**  
 
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)**
 
 
 
@@ -118,8 +108,8 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/2104.08821)**
 **[github](https://github.com/princeton-nlp/SimCSE)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/simCSE/simcse.md)**
 
 
 
@@ -129,24 +119,24 @@ Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An 
 
 **[paper](https://arxiv.org/abs/2106.09685)**
 **[github](https://github.com/microsoft/LoRA)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/LoRA/LoRA.pdf)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/LoRA/LoRA.pdf)**
-
-
-<!-- 
-**[2-1]**  **"title"**:star::star::star::star::star:
-**[paper](site)**
-**[github](site)**  
-
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
 
 
 <!-- 
 **[2-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[github](site)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
+
+
+<!-- 
+**[2-1]**  **"title"**:star::star::star::star::star:
+**[paper](site)**
+**[github](site)**  
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Language/)** -->
+
 
 
 
@@ -168,8 +158,8 @@ Networks**."(2019). [[Graph survey paper]](https://arxiv.org/pdf/1901.00596.pdf)
 <!-- **[3-1]**  **"title"**:star::star::star::star::star:
 **[paper](site)**
 **[github](site)** 
+#### **[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Graph/)**
 
-**[review](https://github.com/Blackeyes0u0/Blackeyes0u0-paper-review/blob/master/papers/Graph/)**
  -->
 
 
