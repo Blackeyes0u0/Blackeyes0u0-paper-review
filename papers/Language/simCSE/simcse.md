@@ -50,6 +50,36 @@ $$
 위 내용을 수식으로 표현하는것은 관련 내용들을 학습해서 알게되면 올리겠습니다.
 
 ---
+위 고민의 결론.
+
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+
+Let W를 {x}에 해당하는 sentence embedding matrix 라고 하자.
+
+$$ 
+Sum(WW^T) = \sum_{i=1}^m\sum_{j=1}^m h_i^T h_j
+$$
+
+normalize h의 위 matrix의 trace는 sum of eigenvalue라고 볼 수 있고, normalize되어 있기에 constant한 값으로 생각할 수 있다.
+
+
+- covariance matrix 형태
+![Alt text](image-9.png)
+
+covariance matrix를 singular value decomposition 을 하였을때 eigen value의 값은 분산
+
+![Alt text](image-10.png)
+
+질문 :
+만약에 h_i 값들에서 각 element의 평균값을빼면 W@W.T는 covariance matrix로 생각되서 eigen value가 분산이라고 생각 할수 있어서 maximum eigen value들을 minimize하는게 분산을 최대화 시키는걸로 생각되는데 분산 term만 minimize시키려면 평균값을 빼줘야하는것 아닌가 라는 생각이 들었다.
+
+결론 :
+
+평균term이랑 함께 분산term도 minimize하니까 괜찮을수도 있겠다.
+
+---
 ### Reference
 
 - https://builtin.com/data-science/symmetric-matrix
